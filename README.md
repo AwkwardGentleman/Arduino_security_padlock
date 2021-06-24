@@ -13,4 +13,4 @@ An electronic security padlock implemented with an Arduino.
  7.	The password can also be re-set by pressing the A key, where the user has to re-enter the password to confirm.
 
 ## Wiring diagram
-![wires](https://github.com/EngineerJoe/Arduino_security_padlock/blob/main/Alarm%20System%20Electrical%20Schematic.pdf)
+![wires](https://github.com/MaybeNotABob/Arduino_security_padlock/blob/main/wiring-diagram/Scaled-wiring-diagram.png)
